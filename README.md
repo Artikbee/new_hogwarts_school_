@@ -5,3 +5,7 @@
 ![image](https://user-images.githubusercontent.com/105461731/207812704-dcdc7d12-18b3-4eca-859f-4f4d8e4b75cc.png)
 
 ![image](https://user-images.githubusercontent.com/105461731/207812740-d15136f3-4281-4582-9ee7-d24bd0897df6.png)
+
+A method that outputs a list of all students:
+![image](https://user-images.githubusercontent.com/105461731/207817616-ea2f3448-3ec5-4234-934f-12b23d05844f.png)
+
